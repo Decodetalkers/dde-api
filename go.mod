@@ -8,7 +8,7 @@ require (
 	github.com/alecthomas/kingpin/v2 v2.3.1
 	github.com/disintegration/imaging v1.6.2
 	github.com/fogleman/gg v1.3.0
-	github.com/godbus/dbus v4.1.0+incompatible
+	github.com/godbus/dbus/v5 v5.1.0
 	github.com/gosexy/gettext v0.0.0-20160830220431-74466a0a0c4a
 	github.com/jinzhu/gorm v1.9.16
 	github.com/linuxdeepin/go-dbus-factory v0.0.0-20230208033821-bda82fd6525e
@@ -25,7 +25,7 @@ require (
 	github.com/alecthomas/units v0.0.0-20211218093645-b94a6e3cc137 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/fsnotify/fsnotify v1.6.0 // indirect
-	github.com/godbus/dbus/v5 v5.1.0 // indirect
+	github.com/godbus/dbus v4.1.0+incompatible // indirect
 	github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0 // indirect
 	github.com/jinzhu/inflection v1.0.0 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
