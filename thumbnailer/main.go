@@ -8,7 +8,7 @@ import (
 	"fmt"
 
 	"github.com/linuxdeepin/dde-api/thumbnails"
-	kingpin "gopkg.in/alecthomas/kingpin.v2"
+	kingpin "github.com/alecthomas/kingpin/v2"
 )
 
 const (

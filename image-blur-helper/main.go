@@ -16,7 +16,7 @@ import (
 	"github.com/linuxdeepin/go-lib/graphic"
 	dutils "github.com/linuxdeepin/go-lib/utils"
 
-	"gopkg.in/alecthomas/kingpin.v2"
+	"github.com/alecthomas/kingpin/v2"
 )
 
 const defaultOutDir = "/var/cache/image-blur/"
