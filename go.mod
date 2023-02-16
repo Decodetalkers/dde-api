@@ -25,7 +25,6 @@ require (
 	github.com/alecthomas/units v0.0.0-20211218093645-b94a6e3cc137 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/fsnotify/fsnotify v1.6.0 // indirect
-	github.com/godbus/dbus v4.1.0+incompatible // indirect
 	github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0 // indirect
 	github.com/jinzhu/inflection v1.0.0 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
@@ -39,3 +38,5 @@ require (
 	golang.org/x/sys v0.3.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
+
+replace github.com/linuxdeepin/go-dbus-factory => github.com/Decodetalkers/go-dbus-factory v0.0.0-20230214081229-2794c96a723b
