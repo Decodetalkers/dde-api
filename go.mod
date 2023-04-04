@@ -2,7 +2,7 @@ module github.com/linuxdeepin/dde-api
 
 go 1.20
 
-replace github.com/linuxdeepin/go-lib => github.com/Decodetalkers/go-lib v0.0.0-20230207102150-285b65f72371
+replace github.com/linuxdeepin/go-lib => github.com/Decodetalkers/go-lib v0.0.0-20230404025406-a17a10117d09
 
 require (
 	github.com/alecthomas/kingpin/v2 v2.3.1
@@ -12,7 +12,7 @@ require (
 	github.com/gosexy/gettext v0.0.0-20160830220431-74466a0a0c4a
 	github.com/jinzhu/gorm v1.9.16
 	github.com/linuxdeepin/go-dbus-factory v0.0.0-20230208033821-bda82fd6525e
-	github.com/linuxdeepin/go-gir v0.0.0-20211207134948-479a42104c80
+	github.com/linuxdeepin/go-gir v0.0.0-20230331033513-a8d7a9e89f9b
 	github.com/linuxdeepin/go-lib v0.0.0-00010101000000-000000000000
 	github.com/linuxdeepin/go-x11-client v0.0.0-20230131052004-7503e2337ee1
 	github.com/mattn/go-sqlite3 v1.14.16
@@ -39,4 +39,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/linuxdeepin/go-dbus-factory => github.com/Decodetalkers/go-dbus-factory v0.0.0-20230214081229-2794c96a723b
+replace github.com/linuxdeepin/go-dbus-factory => github.com/Decodetalkers/go-dbus-factory v0.0.0-20230404030011-0eb743393708
